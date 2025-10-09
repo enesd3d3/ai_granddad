@@ -6,7 +6,7 @@
 ## 📜 Certifications
 
 ### ✅ Completed
-- **[Python](sertifika-link)** - Kaggle Learn (Oct 2025)
+- **[Python](https://www.kaggle.com/learn/certification/aigranddad/python)** - Kaggle Learn (Oct 2025)
   - Variables, Functions, Loops
   - Working with External Libraries
   - Booleans, Conditionals
@@ -39,8 +39,8 @@ Building a career guidance platform combining:
 ---
 
 ## 📫 Connect
-- LinkedIn: [profil-linkin]
-- Kaggle: [kaggle-profilin]
+- LinkedIn: [https://www.linkedin.com/in/enesd3d3/]
+- Kaggle: [https://www.kaggle.com/aigranddad]
 
 ---
 
