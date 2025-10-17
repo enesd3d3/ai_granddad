@@ -11,8 +11,9 @@
   - Working with External Libraries
   - Booleans, Conditionals
 
-### 🔄 In Progress  
-- **Pandas** - Kaggle Learn (Oct 2025)
+### ✅ Completed 
+- - **[Pandas](https://www.kaggle.com/learn/certification/aigranddad/pandas)** - Kaggle Learn (Oct 2025)
+
 
 ### ⏳ Planned
 - Data Cleaning
